@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452267528 source:c:\users\arnas\onedrive\c++\academy\level 3\2-2 (teksto analizë)\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

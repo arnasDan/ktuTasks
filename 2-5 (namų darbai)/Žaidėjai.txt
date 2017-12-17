@@ -1,0 +1,10 @@
+9
+Ignas A 2 4
+Linas P 1 3
+Simas S 5 0
+Kristina S 1 6
+Paulius I 8 7
+Jokûbas L 4 9
+Karina T 5 0
+Andrëja P 7 9
+Tautvydas A 6 8

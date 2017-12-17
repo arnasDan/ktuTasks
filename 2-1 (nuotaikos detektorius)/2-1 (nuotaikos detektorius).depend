@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1451785400 source:c:\users\arnas\onedrive\c++\academy\level 3\2-1 (nuotaikos detektorius)\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<algorithm>
+

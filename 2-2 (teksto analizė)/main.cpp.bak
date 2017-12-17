@@ -1,0 +1,92 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+struct zodis
+{
+    string tkst;
+    int sk;
+};
+
+string skaityti();
+void isskirstymas(struct zodis Zodz[], int &zodSk, string tekstas);
+bool pasikartoja(string zodis, struct zodis Zodz[], int zodSk);
+int zodziuSkaicius(string zodis, string tekstas, int zodSk);
+void isvesti(int zodSk, struct zodis Zodz[]);
+
+int main()
+{
+    zodis Zodz[1000];
+    int zodSk = 0;
+    setlocale(LC_ALL, "Lithuanian");
+    string tekstas = skaityti();
+    //cout << tekstas << endl;
+    isskirstymas(Zodz, zodSk, tekstas);
+    isvesti(zodSk, Zodz);
+    return 0;
+}
+
+string skaityti()
+{
+    string tmp;
+    ifstream in("Duomenys.txt");
+    getline(in, tmp);
+    return tmp;
+}
+
+void isskirstymas(struct zodis Zodz[], int &zodSk, string tekstas)
+{
+    string tmp;
+    int prad = 0, pab = 0;
+    while (pab < tekstas.length()-1)
+    {
+        pab = tekstas.find_first_of(" .,;:–!?()", prad);
+        tmp = tekstas.substr(prad, pab-prad);
+        if (tekstas[pab+1] == ' ')
+            pab++;
+        if (!pasikartoja(tmp, Zodz, zodSk))
+        {
+            Zodz[zodSk].tkst = tmp;
+            zodSk++;
+            Zodz[zodSk].sk = 1;
+        }
+        else
+            Zodz[zodSk].sk = zodziuSkaicius(tmp, tekstas, zodSk);
+        prad = pab+1;
+    }
+}
+
+bool pasikartoja(string zodis, struct zodis Zodz[], int zodSk)
+{
+    for (int i = 0; i < zodSk; i++)
+    {
+        if (zodis == Zodz[i].tkst)
+            return true;
+    }
+    return false;
+}
+
+int zodziuSkaicius(string zodis, string tekstas, int i)
+{
+    int pos = 0, nr = 0;
+    while (tekstas.find(zodis, pos) != string::npos)
+    {
+        pos = tekstas.find(zodis, pos);
+        if (tekstas[pos-1] == ' ')
+            nr++;
+        pos += zodis.length();
+    }
+    return nr;
+}
+
+void isvesti(int zodSk, struct zodis Zodz[])
+{
+    ofstream out("Rezultatai.txt");
+    cout << "Iš viso skirtingų žodžių " << zodSk << endl;
+    for (int i = 0; i < zodSk; i++)
+    {
+        out << i+1 << ". " << Zodz[i].tkst << " " << Zodz[i].sk << endl;
+    }
+}

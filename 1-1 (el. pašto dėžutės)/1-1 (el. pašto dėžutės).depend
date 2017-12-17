@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451783644 source:c:\users\arnas\onedrive\c++\academy\level 3\1-1 (el. paðto dëþutës)\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+

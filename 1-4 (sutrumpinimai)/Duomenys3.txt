@@ -1,0 +1,4 @@
+2
+VARDAS Petras Petraitis
+DATA 2015 01 19
+Sveiki, Mano vardas yra [VARDAS]. Sita programa parasiau [DATA].

@@ -1,0 +1,27 @@
+//----------------------------------------------------------------------------
+/* Nuskaito duomenis ið duomenø failo @CDuom*/
+void SkaitytiDuomenis()
+{
+    ifstream fi(CDuom);
+    if (!fi.is_open()) 
+    {
+        return; 
+    }
+    int nA;
+    fi >> nA;
+    N.detiAukstus(nA);
+    int nr, pl, sk, telnr;
+    float kaina;
+    for (int i = 0; i < nA; i++)
+    {
+        Aukstas aTemp;
+        for (int j = 0; j < 3; j++)
+        {
+            fi >> nr >> pl >> sk >> kaina >> telnr;
+            Butas temp = Butas(nr, pl, sk, telnr, kaina);
+            aTemp.detiButa(temp, j);
+        }
+        N.detiAuksta(aTemp, i);
+    }
+    fi.close();
+}

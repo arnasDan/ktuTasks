@@ -1,0 +1,11 @@
+10
+1001A J.Kazlauskas Informatikos_Pradmenys 2003 10.05
+1025B I.Informikas Informiko_Akademija 2015 15.50
+152AB P.Petrauskas Programavimo_Pagrindai 2004 11.25
+1111A L.Ilgauskas C++_Kalbos_Sintaksë 2008 9.05
+1091C T.Petraitis Kompiuteriu_Architektura 2006 12.45
+109SC P.Svajoklis Duomenu_Strukturos 2007 16.15
+1189L S.Jankauskas Skaitmenine_Logika 2009 20.00
+1002K A.Sakalauskas Tiesine_Algebra 2001 11.55
+259AL H.Alkevicius Matematikos_Pagrindai 2012 13.05
+1098O R.Girdauskas Kompiuterine_Grafika 2014 20.50

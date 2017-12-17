@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1460716284 source:c:\users\mokinys.info172\documents\dan\pritersta\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<iomanip>
+
+1460749774 source:c:\users\arnas\onedrive\c++\academy\level 3\6-1 (atmosferos terðalai)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<iomanip>
+

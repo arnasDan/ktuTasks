@@ -1,0 +1,8 @@
+3 4
+Uþsienio_juridiniai_asmenys
+LR_juridiniai_asmenys
+Anoniminiai_fiziniai_asmenys
+Kultûra           2581.5 8556.8 1263.6
+Ðvietimas         2937.3 6316.3 1310.5 
+Sportas           1815.3 35478.2 881.6
+Religija          4715.8 3937.3 1944.6

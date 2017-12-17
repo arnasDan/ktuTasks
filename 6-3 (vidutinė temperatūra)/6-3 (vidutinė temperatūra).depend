@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461504026 source:c:\users\arnas\onedrive\c++\academy\level 3\6-3 (vidutinë temperatûra)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1461735409 source:c:\users\mokinys\documents\3a\6-3 (vidutinë temperatûra)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+

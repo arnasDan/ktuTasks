@@ -1,0 +1,13 @@
+10
+Alytaus
+Kauno
+Klaipëdos
+Marijampolës
+Panevëþio
+Ðiauliø
+Tauragës
+Telðiø
+Utenos
+Vilniaus
+100.7 16150.7 2516.6 127.5 1552.5 220.6 151.4 76.3 427.7 9631.4
+1446.5 2006.7 6.0 0.3 1.9 25.2 0.0 0.4 0.0 56.0

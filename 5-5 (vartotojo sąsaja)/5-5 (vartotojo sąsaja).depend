@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1459681575 source:c:\users\arnas\onedrive\c++\academy\level 3\5-5 (vartotojo sàsaja)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+	<limits>
+

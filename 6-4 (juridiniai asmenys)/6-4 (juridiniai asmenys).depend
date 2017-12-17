@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1462061354 source:c:\users\arnas\onedrive\c++\academy\level 3\6-4 (juridiniai asmenys)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+	<string>
+	<algorithm>
+

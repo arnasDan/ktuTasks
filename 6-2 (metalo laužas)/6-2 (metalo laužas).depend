@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461321394 source:c:\users\mokinys.info172\documents\dan\6-2 (metalo lauþas)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+
+1461345108 source:c:\users\arnas\onedrive\c++\academy\level 3\6-2 (metalo lauþas)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+	<cmath>
+

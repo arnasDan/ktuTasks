@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458859235 source:c:\users\arnas\onedrive\c++\academy\level 3\5-3 (prekiø tvarkymas)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<time.h>
+

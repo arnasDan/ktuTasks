@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451515798 source:c:\users\arnas\onedrive\c++\academy\level 2\2-3 (tilto statyba)\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+

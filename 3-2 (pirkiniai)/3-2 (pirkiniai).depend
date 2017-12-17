@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454607731 source:c:\users\arnas\onedrive\c++\academy\level 2\3-2 (pirkiniai)\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

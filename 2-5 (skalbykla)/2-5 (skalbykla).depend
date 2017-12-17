@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452188111 source:c:\users\arnas\onedrive\c++\academy\level 2\2-5 (skalbykla)\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+

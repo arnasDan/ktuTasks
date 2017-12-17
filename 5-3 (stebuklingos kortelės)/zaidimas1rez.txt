@@ -1,0 +1,16 @@
+Þaidëjai ir jø surinkti taðkai:
+1 6
+2 5
+3 6
+4 5
+Maþiausiai taðkø surinko:
+4 2 
+Daugiausiai taðkø surinko:
+1 3 
+Po áterpimo:
+4 5
+1 6
+2 5
+3 6
+1 6
+4 5

@@ -1,0 +1,16 @@
+Sportininkø rezultatai:
+1 3.0
+2 4.0
+3 1.5
+4 4.0
+5 1.5
+Maþiausiai taðkø surinkæ sportininkai:
+3 5 
+Daugiausiai taðkø surinkæ sportininkai:
+4 2 
+Surikiuotas sàraðas:
+4 4.0
+2 4.0
+1 3.0
+5 1.5
+3 1.5

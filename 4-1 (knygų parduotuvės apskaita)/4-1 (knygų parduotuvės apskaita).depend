@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1456900063 source:c:\users\mokinys\desktop\folder\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1457020667 source:c:\users\arnas\onedrive\c++\academy\level 3\4-1 (knygø parduotuvës apskaita)\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+

@@ -1,0 +1,6 @@
+- Arbata - 0.99
++ Duona - 0.72
++ Saldainiu dezute - 3.00
++ Guma - 0.03
+- Svogunai - 0.20
++ Agurkas - 0.88

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458853925 source:c:\users\arnas\onedrive\c++\academy\level 3\5-1 (prekiø apskaita)\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+

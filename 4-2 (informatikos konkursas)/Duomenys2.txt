@@ -1,0 +1,6 @@
+5
+Kazys Saja 10 9 100 100 100
+Profesorius Protinguolis 100 100 100 0 2
+Informikas Informikas 100 100 1 100 0
+Nieko Nemoku 100 0 0 0 0
+Vidutiniskai Moku 50 50 50 50 50

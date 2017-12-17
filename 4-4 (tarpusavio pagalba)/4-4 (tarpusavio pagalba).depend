@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1455690938 source:c:\users\egzaminas\documents\danai\4-4 (tarpusavio pagalba)\main.cpp
+	<iostream>
+	<fstream>
+
+1456092874 source:c:\users\arnas\onedrive\c++\academy\level 3\4-4 (tarpusavio pagalba)\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<iomanip>
+

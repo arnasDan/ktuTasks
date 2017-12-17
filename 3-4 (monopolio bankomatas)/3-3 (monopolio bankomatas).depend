@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1453876669 source:c:\users\egzaminas\documents\danai\3-3 (monopolio bankomatas)\main.cpp
+	<iostream>
+	<fstream>
+
+1454101527 source:c:\users\arnas\onedrive\c++\academy\level 3\3-4 (monopolio bankomatas)\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

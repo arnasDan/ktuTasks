@@ -1,0 +1,58 @@
+-----------------------------------------------------------------------
+|Mokinys               | Puikiai moka          | Nemoka                |
+-----------------------------------------------------------------------
+|            Petriukas |            Matematika |        Lietuviu kalba |
+|                      |           Informatika |              Istorija |
+|                      |                       |           Anglu kalba |
+-----------------------------------------------------------------------
+|              Silvija |        Lietuviu kalba |            Matematika |
+|                      |                       |              Istorija |
+-----------------------------------------------------------------------
+|              Ingrida |           Anglu kalba |           Informatika |
+-----------------------------------------------------------------------
+|              Paulius |            Matematika |             Biologija |
+|                      |           Anglu kalba |                       |
+-----------------------------------------------------------------------
+|             Vytautas |           Informatika |            Geografija |
+|                      |              Istorija |                       |
+|                      |           Anglu kalba |                       |
+-----------------------------------------------------------------------
+|               Monika |            Geografija |              Istorija |
+|                      |             Biologija |                       |
+-----------------------------------------------------------------------
+|        Jonas Paulius |           Anglu kalba |            Rusu kalba |
+|                      |              Istorija |            Matematika |
+|                      |             Biologija |                       |
+-----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
+|Pavadinimas           | Mokantys mokiniai     | Nemokantys mokiniai   |
+-----------------------------------------------------------------------
+|           Matematika |             Petriukas |               Silvija |
+|                      |               Paulius |         Jonas Paulius |
+-----------------------------------------------------------------------
+|          Informatika |             Petriukas |               Ingrida |
+|                      |              Vytautas |                       |
+-----------------------------------------------------------------------
+|       Lietuviu kalba |               Silvija |             Petriukas |
+-----------------------------------------------------------------------
+|             Istorija |              Vytautas |             Petriukas |
+|                      |         Jonas Paulius |               Silvija |
+|                      |                       |                Monika |
+-----------------------------------------------------------------------
+|          Anglu kalba |               Ingrida |             Petriukas |
+|                      |               Paulius |                       |
+|                      |              Vytautas |                       |
+|                      |         Jonas Paulius |                       |
+-----------------------------------------------------------------------
+|            Biologija |                Monika |               Paulius |
+|                      |         Jonas Paulius |                       |
+-----------------------------------------------------------------------
+|           Geografija |                Monika |              Vytautas |
+-----------------------------------------------------------------------
+|           Rusu kalba |                       |         Jonas Paulius |
+-----------------------------------------------------------------------
+
+4 mokiniai supranta Anglu kalba.
+3 mokiniai nesupranta Istorija.
+Didþiausias skirtumas yra: Anglu kalba; skirtumas 3 mokiniai

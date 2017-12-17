@@ -1,0 +1,47 @@
+7
+Petriukas
+2
+Matematika
+Informatika
+3
+Lietuviu kalba
+Istorija
+Anglu kalba
+Silvija
+1
+Lietuviu kalba
+2
+Matematika
+Istorija
+Ingrida
+1
+Anglu kalba
+1
+Informatika
+Paulius
+2
+Matematika
+Anglu kalba
+1
+Biologija
+Vytautas
+3
+Informatika
+Istorija
+Anglu kalba
+1
+Geografija
+Monika
+2
+Geografija
+Biologija
+1
+Istorija
+Jonas Paulius
+3
+Anglu kalba
+Istorija
+Biologija
+2
+Rusu kalba
+Matematika

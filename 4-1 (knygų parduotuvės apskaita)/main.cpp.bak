@@ -1,0 +1,53 @@
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+
+using namespace std;
+
+struct diena
+{
+    int nr;
+    int kng;
+    int pln;
+};
+
+void skaityti(struct diena Dien[31], int &n);
+void pajamuLentele(struct diena Dien[31], int n);
+
+int main()
+{
+    int n = 0;
+    diena Dien[31];
+    skaityti(Dien, n);
+    pajamuLentele(Dien, n);
+    return 0;
+}
+
+void skaityti(struct diena Dien[31], int &n)
+{
+    ifstream in("Duomenys1.txt");
+    while (!in.eof())
+    {
+        in >> Dien[n].nr >> Dien[n].kng >> Dien[n].pln;
+        n++;
+    }
+}
+
+void pajamuLentele(struct diena Dien[31], int n)
+{
+    ofstream out("Rezultatai1.txt");
+    out << setw(12) << "Pajamu_diagrama" << endl;
+    out << "Dienos" << endl;
+    int trp;
+    for (int i = 0; i < n; i++)
+    {
+
+        if (Dien[i].nr >= 10)
+            trp = 5;
+        else trp = 6;
+        out << Dien[i].nr << setw(trp);
+        for (int j = 0; j < Dien[i].pln; j++)
+            out << "_";
+        out << endl;
+    }
+}
